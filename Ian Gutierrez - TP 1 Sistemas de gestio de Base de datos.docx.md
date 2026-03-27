@@ -1,27 +1,27 @@
-**TP 1 Sistema de Gestión de Base de datos** 
+# **TP 1 Sistema de Gestión de Base de datos** 
 
 **Trabajo de investigación y desarrollo**
 
-1. **Buscar u definir que es una base de datos**
+## 1. **Buscar u definir que es una base de datos**
 
    **Una base de datos es un sistema organizado de datos donde se almacenan estos mismos en diferentes tablas que pueden tener relacion o no entre si, manteniendo los datos en las tablas que corresponda ese dato**
 
-2. **Definir que es un Sistema de Gestión de Bases de Datos (SGBD)**
+## 2. **Definir que es un Sistema de Gestión de Bases de Datos (SGBD)**
 
 **Es un sistema que se ocupa de gestionar la relacion entre las BD, los usuarios y las**  
 **aplicaciones, permitiendo la estructuracion, modificacion, manipulacion y**  
 **almacenamiento de la informacion de manera segura y eficiente**
 
-3. **¿Cuál es la diferencia entre una Base de Datos y un Sistema de Gestión de Base de Datos?**
+## 3. **¿Cuál es la diferencia entre una Base de Datos y un Sistema de Gestión de Base de Datos?**
 
 **Las Bases de datos son el conjunto de informacion almacenada y las SGBD es el**  
 **software que permite la gestion de ellos.**
 
-4. **¿Qué es un sistema de Base de datos propietarios?**  
+## 4. **¿Qué es un sistema de Base de datos propietarios?**  
      
    **Son SGBD privado y exclusivo de una empresa o persona. Con licencia comercial de pago para su copia**  
      
-5. **¿Cuáles son sus características?**  
+## 5. **¿Cuáles son sus características?**  
      
    **Licencias: Se implica el uso de licencias pagas tanto por usuario como por servidor**  
      
@@ -33,7 +33,7 @@
      
    **Seguridad: Poseen seguridad, encriptacion y soporte tecnico en un alto nivel**  
      
-6. **Dar 3 ejemplos de empres que desarrollen SGBD propietario**
+## 6. **Dar 3 ejemplos de empres que desarrollen SGBD propietario**
 
 	**° Microsoft**
 
@@ -41,16 +41,16 @@
 
 **°MongoDB**
 
-7. **Ventajas y Desventajas: (Costo vs. Garantía de soporte).**
+## 7. **Ventajas y Desventajas: (Costo vs. Garantía de soporte).**
 
 	**Poseen un mayor costo a diferencia del software libre, pero esto tambien trae un**  
 **soporte especializado y una garantia con cierto tiempo de su uso, Son mas recomendables para trabajos importantes y para empresas**
 
-8. **¿Qué es un sistema de Base de datos Libre?**  
+## 8. **¿Qué es un sistema de Base de datos Libre?**  
      
    **Es una BD que tiene su codigo abierto, permitiendo la copia de este y modificacion logrando experimentos sobre diferentes versiones de este**  
      
-9. **¿Cuáles son sus características?**  
+## 9. **¿Cuáles son sus características?**  
      
    **° Codigo Fuente: Al tener un acesso al codigo fuente esto permite el estudio y modificacion de este, permitiendo resultados exitosos y experimentales**  
      
@@ -69,7 +69,7 @@
      
      
      
-10. **Dar 3 ejemplos de empresas que desarrollen SGBD Libre.**  
+## 10. **Dar 3 ejemplos de empresas que desarrollen SGBD Libre.**  
       
     **°MariaDB**  
       
@@ -77,13 +77,13 @@
 
     **°MySQL**
 
-11. **Ventajas y Desventajas: (Costo vs. Garantía de soporte).**  
+## 11. **Ventajas y Desventajas: (Costo vs. Garantía de soporte).**  
       
     **Su costo es mucho menor en la mayoria de casos, generando facilidad para trabajar con el, aparte al existir una comunidad activa de este se pueden hacer diversas modificaciones e intercambios de informacion entre ellos, si bien hay una comunidad no existe una garantia segura de que en caso de una falla puedas arreglarlo con un profesional o un conocedor del tema, lo que puede generar problemas simples que no tienen solucion simple**  
       
     
 
-12.  **Realizar un cuadro compilatorio entre Software Propietario y Software Libre con los siguientes criterios: Costos, Soporte, Transparencia Y Casos de uso**  
+## 12.  **Realizar un cuadro compilatorio entre Software Propietario y Software Libre con los siguientes criterios: Costos, Soporte, Transparencia Y Casos de uso**  
     **Tratar de hacerlo con lo que sabe y lo que aprendió, desarrollo su espíritu critico .**
 
 | Característica | Software Propietario | Software Libre |
